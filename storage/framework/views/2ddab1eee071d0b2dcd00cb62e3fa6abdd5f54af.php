@@ -1,0 +1,2 @@
+<script src="<?php echo e(asset('dist/js/scripts.js')); ?>"></script>
+<script src="<?php echo e(asset('dist/js/custom.js')); ?>"></script><?php /**PATH D:\xampp\htdocs\news_portal_project\resources\views/admin/layout/scripts_footer.blade.php ENDPATH**/ ?>
